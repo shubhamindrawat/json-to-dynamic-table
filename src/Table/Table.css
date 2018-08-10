@@ -1,0 +1,21 @@
+.tbl{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+.tbl tr th{
+    padding: 10px;
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+.tbl tr td{
+    padding: 10px;
+    border: 1px solid;
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    border: 1px black;
+}
